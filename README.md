@@ -1,18 +1,58 @@
+<!-- - 👋 Hi, I’m @ssentongojosh
+- 👀 I’m interested in offensive security and playing CTF challenges...
+- 🌱 I’m currently learning binary exploitation, web exploitation and reverse engineering...
+- 💞️ I’m looking to collaborate on any open source projects available...
+- 📫 How to reach me: ssentongoj05hu4@gmail.com...
+- 😄 Pronouns♂️ ...
+- ⚡ Fun fact: ...
+-->
 <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
   <!-- Background Banner -->
-  <img width="1794" height="592" alt="banner" src="https://github.com/user-attachments/assets/8917296f-99fc-47a9-a417-9f44cfec6c6d" style="width: 100%; height: auto; display: block;" />
-  
-  <!-- Overlay Profile Picture -->
-  <img width="250" height="250" alt="portrait-3" src="https://github.com/user-attachments/assets/88ed0f6e-8d62-43f4-bf46-8353739628c7" style="position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 4px solid white;" />
+<img width="1803" height="808" alt="banner_fit" src="https://github.com/user-attachments/assets/e21757aa-990e-4d6c-a088-0ed956497d1e" />
+
+
 </div>
 
-- 👋 Hi, I'm @ssentongojosh
-- 👀 I'm interested in offensive security and playing CTF challenges
-- 🌱 Currently learning: binary exploitation, web exploitation, and reverse engineering
-- 💞️ Open to collaborating on any open source projects
-- 📫 Reach me at: ssentongoj05hu4@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve Rubik's cubes in under a minute!
+
+<!-- Extra spacing so subsequent content doesn't overlap the floating profile picture -->
+<br><br><br>
+
+
+
+
+# Hi, I'm Joshua Ssentongo 
+
+**Software Engineering Student @ Makerere University** | **Android & Arduino Developer** | **Cybersecurity Enthusiast**
+
+I build scalable software, secure systems, and AI-driven solutions. Currently mentoring the next generation of African innovators.
+
+<!-- 🌐 **Portfolio:** [joshua-ssentongo.github.io](https://joshua-ssentongo.github.io)
+📄 **CV:** [Download PDF](link-to-your-cv-pdf)
+-->
+
+##  Tech Stack
+- **Languages:** Python, TypeScript, Java, Kotlin, SQL, Bash
+- **Backend:** Spring Boot, NestJS, Django, Laravel
+- **Mobile:** Android (Jetpack Compose, Kotlin)
+- **AI/ML:** YOLOv8, ViT
+- **Cybersecurity:** Web/Binary Exploitation, CTFs (picoCTF, UCC Cyberstars)
+- **Embedded:** Arduino, Robotics
+
+<!-- ##  Featured Projects
+- **[Mass Messaging System](link):** NestJS, BullMQ, WhatsApp API. Enterprise-grade reliability.
+- **[Bus Passenger Counter](link):** Python, YOLOv8, OpenCV. Edge-optimized AI for public transport.
+- **[UniPapers](link):** Android, Spring Boot. Academic resource sharing platform.
+- **[picoCTF Writeup System](link):** Python, RAG. Automated CTF challenge tracking.
+-->
+
+## 🏆 Achievements
+- **AI Award:** IEEE Society Makerere Best AI Project (Sentio-ViT-Emotion)
+- **Cybersecurity:** Active competitor in picoCTF 2024,2025 and 2026 & UCC Cyber Stars Finals 2025
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/joshua-ssentongo-8b6755352/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bi59G9xzrR%2FqDSxR2kTRe3Q%3D%3D)
+- [Email](mailto:ssentongoj05hu4@gmail.com)
+
 
 <!---
 ssentongojosh/ssentongojosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
