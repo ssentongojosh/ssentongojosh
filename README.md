@@ -3,7 +3,7 @@
   <img width="1794" height="592" alt="banner" src="https://github.com/user-attachments/assets/8917296f-99fc-47a9-a417-9f44cfec6c6d" style="width: 100%; height: auto; display: block;" />
   
   <!-- Overlay Profile Picture -->
-  <img width="250" height="250" alt="portrait-3" src="https://github.com/user-attachments/assets/88ed0f6e-8d62-43f4-bf46-8353739628c7" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; border: 4px solid white; width: 250px; height: 250px;" />
+  <img width="250" height="250" alt="portrait-3" src="https://github.com/user-attachments/assets/88ed0f6e-8d62-43f4-bf46-8353739628c7" style="position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 4px solid white;" />
 </div>
 
 - 👋 Hi, I'm @ssentongojosh
