@@ -22,21 +22,20 @@
 
 # Hi, I'm Joshua Ssentongo 
 
-**Software Engineering Student @ Makerere University** | **Android & Arduino Developer** | **Cybersecurity Enthusiast**
+**Software Engineering Student @ Makerere University** | **Android & Embedded System Developer** | **Cybersecurity**
 
-I build scalable software, secure systems, and AI-driven solutions. Currently mentoring the next generation of African innovators.
+I build scalable software, secure systems, and AI-driven solutions. mentoring the next generation of African innovators.
 
 <!-- 🌐 **Portfolio:** [joshua-ssentongo.github.io](https://joshua-ssentongo.github.io)
 📄 **CV:** [Download PDF](link-to-your-cv-pdf)
 -->
 
 ##  Tech Stack
-- **Languages:** Python, TypeScript, Java, Kotlin, SQL, Bash
-- **Backend:** Spring Boot, NestJS, Django, Laravel
+- **Languages:** Python, TypeScript, Java, Kotlin, SQL, Bash, C
+- **Backend:** NestJS, Django
 - **Mobile:** Android (Jetpack Compose, Kotlin)
-- **AI/ML:** YOLOv8, ViT
-- **Cybersecurity:** Web/Binary Exploitation, CTFs (picoCTF, UCC Cyberstars)
-- **Embedded:** Arduino, Robotics
+- **Cybersecurity:** Web/Binary Exploitation, CTFs (picoCTF,pwn.college, UCC Cyberstars)
+- **Embedded:** Arduino, ESP32
 
 <!-- ##  Featured Projects
 - **[Mass Messaging System](link):** NestJS, BullMQ, WhatsApp API. Enterprise-grade reliability.
